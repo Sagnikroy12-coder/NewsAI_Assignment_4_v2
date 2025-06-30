@@ -1,0 +1,25 @@
+.article-detail {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.article-detail img {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  margin: 15px 0;
+}
+
+.article-detail a {
+  display: inline-block;
+  margin-top: 10px;
+  color: blue;
+  text-decoration: underline;
+}
+
+.back-button {
+  margin-bottom: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+}

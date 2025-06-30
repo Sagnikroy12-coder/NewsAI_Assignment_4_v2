@@ -1,0 +1,18 @@
+.category-tabs {
+  margin: 10px;
+  display: flex;
+  gap: 10px;
+}
+
+.category-button {
+  padding: 6px 12px;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.category-button:hover {
+  background-color: #555;
+}
